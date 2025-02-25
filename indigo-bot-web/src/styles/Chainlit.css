@@ -1,18 +1,18 @@
 .chat {
-    display: flex;
-    justify-content: right;
-    width: 50%;
-    height: 92%
- } 
+  display: flex;
+  justify-content: right;
+  width: 50%;
+  height: 92%;
+}
 
- .content{
-    display: flex;
-    justify-content: right;
-    height: 80vh;
- }
+.content {
+  display: flex;
+  justify-content: right;
+  height: 80vh;
+}
 
- .chat iframe {
-    border: transparent;
-    border-radius: 8px;
-    margin: 10px;
- }
+.chat iframe {
+  border: transparent;
+  border-radius: 8px;
+  margin: 10px;
+}

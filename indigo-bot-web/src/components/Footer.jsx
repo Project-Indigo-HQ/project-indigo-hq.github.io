@@ -1,7 +1,11 @@
-import '../styles/Footer.css';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faInstagram, faWhatsapp, faTelegram } from '@fortawesome/free-brands-svg-icons';
-import { faCommentDots } from '@fortawesome/free-solid-svg-icons';
+import "../styles/Footer.css";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import {
+  faInstagram,
+  faWhatsapp,
+  faTelegram,
+} from "@fortawesome/free-brands-svg-icons";
+import { faCommentDots } from "@fortawesome/free-solid-svg-icons";
 
 const Footer = () => {
   return (
