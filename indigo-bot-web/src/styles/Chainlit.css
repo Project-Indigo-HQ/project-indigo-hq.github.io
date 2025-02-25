@@ -1,0 +1,17 @@
+.chat {
+    display: flex;
+    justify-content: right;
+    width: 50%;
+ } 
+
+ .content{
+    display: flex;
+    justify-content: right;
+    height: 70%;
+ }
+
+ .chat iframe {
+    border: transparent;
+    border-radius: 8px;
+    margin: 10px;
+ }
