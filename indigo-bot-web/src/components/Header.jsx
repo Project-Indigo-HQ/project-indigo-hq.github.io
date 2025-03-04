@@ -6,7 +6,7 @@ const Header = () => {
       <h1>Project Indigo</h1>
       <img
         class="headerimg"
-        src="../public/IndigoBot.png"
+        src="/IndigoBot.png"
         alt="Project Indigo Logo"
       ></img>
     </div>

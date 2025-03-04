@@ -1,4 +1,5 @@
 import "../styles/Chainlit.css";
+import "../App.css";
 
 const Chainlit = () => {
   return (

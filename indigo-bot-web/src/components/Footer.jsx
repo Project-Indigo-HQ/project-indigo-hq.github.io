@@ -2,10 +2,11 @@ import "../styles/Footer.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faInstagram,
-  faWhatsapp,
   faTelegram,
+  faFacebook,
 } from "@fortawesome/free-brands-svg-icons";
 import { faCommentDots } from "@fortawesome/free-solid-svg-icons";
+import "../App.css";
 
 const Footer = () => {
   return (
@@ -28,13 +29,13 @@ const Footer = () => {
           </ul>
         </div>
         <div class="footer-right">
-          <a href="#" class="social-icon">
+          <a href="https://www.facebook.com/people/Chatbot-for-Social-Services/61570612387489/" class="social-icon">
+            <FontAwesomeIcon icon={faFacebook} />
+          </a>
+          <a href="https://www.instagram.com/teamindigopsu/" class="social-icon">
             <FontAwesomeIcon icon={faInstagram} />
           </a>
-          <a href="#" class="social-icon">
-            <FontAwesomeIcon icon={faWhatsapp} />
-          </a>
-          <a href="#" class="social-icon">
+          <a href="sms:+15415323874" class="social-icon">
             <FontAwesomeIcon icon={faCommentDots} />
           </a>
           <a href="#" class="social-icon">

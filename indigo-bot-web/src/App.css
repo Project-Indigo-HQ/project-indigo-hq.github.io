@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Giga:wght@100..900&display=swap');
+
 .App {
   text-align: center;
 }
@@ -200,20 +202,112 @@ footer:hover {
   font-size: 25px;
 }
 
-.chat {
-  display: flex;
-  justify-content: right;
+.text {
   width: 50%;
-}
-
-.content {
-  display: flex;
-  justify-content: right;
-  height: 70%;
-}
-
-.chat iframe {
-  border: transparent;
+  height: 92%;
+  background-color: rgb(36, 36, 36, 1);
   border-radius: 8px;
   margin: 10px;
+  color: white;
 }
+
+.contact-container {
+  background-color: rgb(36, 36, 36, 1);
+  max-width: 600px;
+  margin: 50px auto;
+  text-align: center;
+  padding: 20px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  color: white;
+}
+
+.contact-details p {
+  font-size: 18px;
+  margin: 10px 0;
+  color: white;
+}
+
+.contact-details a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.contact-details a:hover {
+  text-decoration: underline;
+  color: #5c62cd;
+}
+
+.contact-socials {
+  margin-top: 20px;
+  color: white;
+}
+
+.contact-socials a {
+  display: inline-block;
+  margin: 0 10px;
+  color:rgb(255, 255, 255);
+  text-decoration: none;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.contact-socials a:hover {
+  color: #5c62cd;
+}
+
+.about-container {
+  max-width: 800px;
+  margin: 50px auto;
+  text-align: center;
+  padding: 20px;
+  color: white;
+  background: rgb(36, 36, 36, 1);;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+
+.about-project {
+  margin-bottom: 30px;
+}
+
+.about-team {
+  margin-bottom: 30px;
+}
+
+.team-grid {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.team-member {
+  text-align: center;
+  max-width: 200px;
+  margin: 10px;
+}
+
+.team-member img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+
+.team-member p {
+  font-size: 12px;
+}
+
+.about-links a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  display: block;
+  margin: 10px 0;
+}
+
+.about-links a:hover {
+  color: #5c62cd;
+}
+
