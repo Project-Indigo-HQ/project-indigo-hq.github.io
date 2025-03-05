@@ -7,6 +7,7 @@ import Header from "./components/Header";
 import Navbar from "./components/Navbar";
 import Chainlit from "./components/Chainlit";
 import Footer from "./components/Footer";
+import MapComponent from "./components/Map";
 
 //pages
 import Home from "./pages/Home";
@@ -24,7 +25,10 @@ function App() {
               <>
                 <Header />
                 <Navbar />
-                <Chainlit />
+                <div className="mainLayout">
+                  <MapComponent />
+                  <Chainlit />
+                </div>
                 <Footer />
               </>
             }

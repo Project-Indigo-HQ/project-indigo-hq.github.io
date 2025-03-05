@@ -1,0 +1,8 @@
+.MapHolder {
+  display: flex;
+  width: 50%;
+  height: 500px;
+  border: transparent;
+  border-radius: 8px;
+  margin: 10px;
+}
