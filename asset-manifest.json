@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/www.indigo-pdx.com/static/css/main.24aa2d44.css",
+    "main.js": "/www.indigo-pdx.com/static/js/main.befffe04.js",
+    "static/js/453.4a31f7aa.chunk.js": "/www.indigo-pdx.com/static/js/453.4a31f7aa.chunk.js",
+    "index.html": "/www.indigo-pdx.com/index.html",
+    "main.24aa2d44.css.map": "/www.indigo-pdx.com/static/css/main.24aa2d44.css.map",
+    "main.befffe04.js.map": "/www.indigo-pdx.com/static/js/main.befffe04.js.map",
+    "453.4a31f7aa.chunk.js.map": "/www.indigo-pdx.com/static/js/453.4a31f7aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24aa2d44.css",
+    "static/js/main.befffe04.js"
+  ]
+}
