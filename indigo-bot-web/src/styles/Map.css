@@ -1,8 +1,15 @@
 .MapHolder {
   display: flex;
   width: 50%;
-  height: 500px;
+  height: 700px;
   border: transparent;
   border-radius: 8px;
   margin: 10px;
+}
+
+@media (max-width: 768px) {
+  .MapHolder {
+    width: 95%;
+    margin: 0 10px 100px 10px;
+  }
 }

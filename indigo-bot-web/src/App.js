@@ -10,7 +10,6 @@ import Footer from "./components/Footer";
 import MapComponent from "./components/Map";
 
 //pages
-import Home from "./pages/Home";
 import About from "./pages/About";
 import Contact from "./pages/Contact";
 
@@ -26,8 +25,8 @@ function App() {
                 <Header />
                 <Navbar />
                 <div className="mainLayout">
-                  <MapComponent />
                   <Chainlit />
+                  <MapComponent />
                 </div>
                 <Footer />
               </>

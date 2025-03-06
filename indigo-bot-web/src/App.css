@@ -108,6 +108,13 @@ body {
   height: 92%;
 }
 
+@media (max-width: 768px) {
+  .mainLayout {
+    flex-direction: column;
+    align-items: center; /* Center items when stacked */
+  }
+}
+
 .header {
   display: flex;
   justify-content: space-between;
