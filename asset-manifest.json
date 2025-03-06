@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/www.indigo-pdx.com/static/css/main.24aa2d44.css",
-    "main.js": "/www.indigo-pdx.com/static/js/main.befffe04.js",
-    "static/js/453.4a31f7aa.chunk.js": "/www.indigo-pdx.com/static/js/453.4a31f7aa.chunk.js",
-    "index.html": "/www.indigo-pdx.com/index.html",
-    "main.24aa2d44.css.map": "/www.indigo-pdx.com/static/css/main.24aa2d44.css.map",
-    "main.befffe04.js.map": "/www.indigo-pdx.com/static/js/main.befffe04.js.map",
-    "453.4a31f7aa.chunk.js.map": "/www.indigo-pdx.com/static/js/453.4a31f7aa.chunk.js.map"
+    "main.css": "/static/css/main.24aa2d44.css",
+    "main.js": "/static/js/main.dc2d8d9e.js",
+    "static/js/453.4a31f7aa.chunk.js": "/static/js/453.4a31f7aa.chunk.js",
+    "index.html": "/index.html",
+    "main.24aa2d44.css.map": "/static/css/main.24aa2d44.css.map",
+    "main.dc2d8d9e.js.map": "/static/js/main.dc2d8d9e.js.map",
+    "453.4a31f7aa.chunk.js.map": "/static/js/453.4a31f7aa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.24aa2d44.css",
-    "static/js/main.befffe04.js"
+    "static/js/main.dc2d8d9e.js"
   ]
 }
