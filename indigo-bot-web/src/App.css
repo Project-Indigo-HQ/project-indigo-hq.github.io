@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Lexend+Giga:wght@100..900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Lexend+Giga:wght@100..900&display=swap");
 
 .App {
   text-align: center;
@@ -100,6 +100,20 @@ body {
 /* .navbar a:hover {
     background-color: #272727;
 } */
+
+.mainLayout {
+  display: flex;
+  justify-content: space-evenly;
+  width: 100%;
+  height: 92%;
+}
+
+@media (max-width: 768px) {
+  .mainLayout {
+    flex-direction: column;
+    align-items: center; /* Center items when stacked */
+  }
+}
 
 .header {
   display: flex;
@@ -247,7 +261,7 @@ footer:hover {
 .contact-socials a {
   display: inline-block;
   margin: 0 10px;
-  color:rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
   text-decoration: none;
   font-weight: bold;
   transition: 0.3s;
@@ -263,7 +277,7 @@ footer:hover {
   text-align: center;
   padding: 20px;
   color: white;
-  background: rgb(36, 36, 36, 1);;
+  background: rgb(36, 36, 36, 1);
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
   border-radius: 10px;
 }
@@ -310,4 +324,3 @@ footer:hover {
 .about-links a:hover {
   color: #5c62cd;
 }
-

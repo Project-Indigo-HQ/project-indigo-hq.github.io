@@ -34,7 +34,7 @@ const Contact = () => {
         </div>
 
         <div className="contact-socials">
-          <a href="" target="_blank" rel="noopener noreferrer">
+          <a href="https://t.me/indigopdxbot" target="_blank" rel="noopener noreferrer">
             <FontAwesomeIcon icon={faTelegram} />
             Telegram
           </a>

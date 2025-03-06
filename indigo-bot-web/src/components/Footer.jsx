@@ -38,7 +38,7 @@ const Footer = () => {
           <a href="sms:+15415323874" class="social-icon">
             <FontAwesomeIcon icon={faCommentDots} />
           </a>
-          <a href="#" class="social-icon">
+          <a href="https://t.me/indigopdxbot" class="social-icon">
             <FontAwesomeIcon icon={faTelegram} />
           </a>
         </div>

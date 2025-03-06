@@ -6,6 +6,7 @@ const Chainlit = () => {
     <div class="content">
       <div class="chat">
         <iframe
+          title="Chainlit UI"
           src="https://chat.indigo-pdx.com/"
           width="100%"
           height="100%"
