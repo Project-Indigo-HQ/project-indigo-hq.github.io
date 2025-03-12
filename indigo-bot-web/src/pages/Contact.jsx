@@ -29,7 +29,7 @@ const Contact = () => {
           <p>Contact IndigoBot using any of the these platforms.</p>
           <p>
             <FontAwesomeIcon icon={faCommentDots} /> SMS:{" "}
-            <a href="tel:+1234567890">+1 (234) 567-890</a>
+            <a href="tel:+15415323874">+1 (541) 532-3874</a>
           </p>
         </div>
 
